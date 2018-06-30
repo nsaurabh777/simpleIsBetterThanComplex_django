@@ -14,6 +14,8 @@ dist/
 downloads/
 eggs/
 .eggs/
+bin/
+include/
 lib/
 lib64/
 parts/
@@ -24,6 +26,9 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+pip-selfcheck.json
+simpleIsBetterThanComplex.sublime-project
+simpleIsBetterThanComplex.sublime-workspace
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
